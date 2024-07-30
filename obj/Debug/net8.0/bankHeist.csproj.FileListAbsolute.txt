@@ -1,0 +1,15 @@
+C:\Users\user\workspace\csharp\bankHeist\bin\Debug\net8.0\bankHeist.exe
+C:\Users\user\workspace\csharp\bankHeist\bin\Debug\net8.0\bankHeist.deps.json
+C:\Users\user\workspace\csharp\bankHeist\bin\Debug\net8.0\bankHeist.runtimeconfig.json
+C:\Users\user\workspace\csharp\bankHeist\bin\Debug\net8.0\bankHeist.dll
+C:\Users\user\workspace\csharp\bankHeist\bin\Debug\net8.0\bankHeist.pdb
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.AssemblyInfoInputs.cache
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.AssemblyInfo.cs
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.sourcelink.json
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.dll
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\refint\bankHeist.dll
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.pdb
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\bankHeist.genruntimeconfig.cache
+C:\Users\user\workspace\csharp\bankHeist\obj\Debug\net8.0\ref\bankHeist.dll
